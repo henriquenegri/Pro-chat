@@ -1,10 +1,8 @@
 # 🧠 NeuroChat: Desvendando Universos, Conectando Pessoas 🧠
 
-<div align ="center">
   [![Licença: MIT](https://img.shields.io/badge/Licença-MIT-9942A8?style=for-the-badge)](https://opensource.org/licenses/MIT)
   [![Status: Em Desenvolvimento](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-GREEN?style=for-the-badge)](https://github.com/henriquenegri/Pro-chat)
   [![Contribuições: Bem-vindas!](https://img.shields.io/badge/CONTRIBUIÇÕES-BEM--VINDAS-ORANGE?style=for-the-badge)](https://github.com/henriquenegri/Pro-chat/blob/main/CONTRIBUTING.md)
-</div>
 
 <p align="center">
   <em>"A diversidade de cérebros não é um bug, é uma feature. Nossa missão é criar o manual de instruções."</em>
