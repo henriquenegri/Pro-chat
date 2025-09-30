@@ -1,8 +1,8 @@
-# 🧠 NeuroChat: Desvendando Universos, Conectando Pessoas 🧠
+# 🧠✨ NeuroChat: Desvendando Universos, Conectando Pessoas ✨🧠
 
-  [![Licença: MIT](https://img.shields.io/badge/Licença-MIT-9942A8?style=for-the-badge)](https://opensource.org/licenses/MIT)
-  [![Status: Em Desenvolvimento](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-GREEN?style=for-the-badge)](https://github.com/henriquenegri/Pro-chat)
-  [![Contribuições: Bem-vindas!](https://img.shields.io/badge/CONTRIBUIÇÕES-BEM--VINDAS-ORANGE?style=for-the-badge)](https://github.com/henriquenegri/Pro-chat/blob/main/CONTRIBUTING.md)
+[![Licença: MIT](https://img.shields.io/badge/Licença-MIT-9942A8?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Status: Em Desenvolvimento](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-GREEN?style=for-the-badge)](https://github.com/henriquenegri/Pro-chat)
+[![Contribuições: Bem-vindas!](https://img.shields.io/badge/CONTRIBUIÇÕES-BEM--VINDAS-ORANGE?style=for-the-badge)](https://github.com/henriquenegri/Pro-chat/blob/main/CONTRIBUTING.md)
 
 <p align="center">
   <em>"A diversidade de cérebros não é um bug, é uma feature. Nossa missão é criar o manual de instruções."</em>
@@ -10,83 +10,110 @@
 
 ## 🚀 O que é o NeuroChat?
 
-O **NeuroChat** é mais do que um chatbot. Ele é um assistente virtual projetado para ser o ponto de partida seguro e acolhedor para quem busca entender e apoiar a comunidade neurodivergente.
+O **NeuroChat** é mais do que um script. Ele é um assistente virtual, rodando diretamente no seu terminal, projetado para ser um ponto de partida seguro e acolhedor para quem busca entender e apoiar a comunidade neurodivergente.
 
-Sabemos que navegar pela internet em busca de informações sobre autismo, TDAH, dislexia, e outras condições pode ser confuso e, muitas vezes, frustrante. Este projeto nasceu para resolver exatamente isso: centralizar informações confiáveis, oferecer apoio prático e direcionar para ajuda qualificada.
-
-Se você é um pai, um amigo, um líder de equipe ou simplesmente alguém que deseja construir um mundo mais inclusivo, você está no lugar certo!
+Utilizando o poder do Google Gemini, este projeto oferece respostas claras e diretas para questões sobre autismo, TDAH, dislexia e outras condições, com o objetivo de centralizar informações confiáveis, oferecer apoio prático e direcionar para ajuda qualificada.
 
 ### 🎯 Nossos Pilares:
 
-* **INFORMAR:** Traduzir a complexidade da neurodiversidade em uma linguagem clara, humana e livre de estigmas.
-* **APOIAR:** Fornecer dicas práticas e acionáveis sobre como ajudar, interagir e criar ambientes mais acolhedores.
-* **DIRECIONAR:** Ajudar a localizar o profissional certo para cada situação, diminuindo a jornada de quem busca um diagnóstico ou acompanhamento.
+* **INFORMAR:** Traduzir a complexidade da neurodiversidade em uma linguagem clara e humana.
+* **APOIAR:** Fornecer dicas práticas e acionáveis sobre como ajudar e criar ambientes mais acolhedores.
+* **DIRECIONAR:** Ajudar a localizar o profissional certo para cada situação.
 
-## ✨ Funcionalidades Mágicas
+## ✨ Funcionalidades
 
-* 💬 **Conversa Fluida e Natural:** Uma interface de chat intuitiva. Sem menus complicados, sem jargões.
-* 📚 **Base de Conhecimento Curada:** Chega de "Dr. Google"! Nosso conteúdo é baseado em fontes confiáveis e revisado constantemente.
-* 🗺️ **Localizador de Profissionais:** Com base na sua necessidade e localização, sugerimos especialistas qualificados.
-* 💖 **Design Empático:** Respostas e interações pensadas para serem acolhedoras e construtivas.
-* 🕒 **Disponível 24/7:** Porque a necessidade de informação e apoio não tem hora marcada.
+* 💬 **Interface de Linha de Comando:** Uma interação direta e sem distrações, direto no seu terminal.
+* 🧠 **Inteligência Artificial de Ponta:** Respostas geradas pelo modelo `gemini-1.0-pro` do Google.
+* 📚 **Base de Conhecimento Abrangente:** Acesso a uma vasta gama de informações para tirar dúvidas complexas.
+* 💖 **Configuração de Segurança Aberta:** Projetado para discutir tópicos sensíveis sem bloqueios desnecessários (para fins de informação e apoio).
 
 ## 🛠️ Stack Tecnológica (O que tem sob o capô)
 
-Este projeto foi construído com as seguintes tecnologias para garantir uma experiência robusta e escalável:
+Este projeto é construído com uma abordagem minimalista e poderosa:
 
-* **Frontend:** `[Ex: React, Vue.js, SvelteKit]`
-* **Backend:** `[Ex: Node.js (Express), Python (Django), Go]`
-* **Inteligência Artificial:** `[Ex: OpenAI API, Google Gemini, Dialogflow]`
-* **Banco de Dados:** `[Ex: MongoDB, PostgreSQL, Firebase]`
-* **Hospedagem:** `[Ex: Vercel, Netlify, AWS]`
-
-*(Lembre-se de preencher com as tecnologias que você realmente usou!)*
+* **Linguagem:** `Python`
+* **Inteligência Artificial:** `Google Gemini Pro`
+* **Biblioteca Principal:** `google-generativeai`
 
 ## 🏃‍♂️ Guia de Início Rápido (Getting Started)
 
-Pronto para rodar o projeto na sua máquina? É mais fácil que montar um quebra-cabeça de 10 peças!
+Pronto para rodar o projeto na sua máquina? Siga os passos abaixo!
 
 ### Pré-requisitos
 
-* **Node.js** (versão 18 ou superior)
-* **npm** ou **yarn**
-* Um bom café (ou chá) para acompanhar a jornada ☕.
+* **Python 3.8+** instalado na sua máquina.
+* **pip** (gerenciador de pacotes do Python).
+* Uma chave de API do **Google AI Studio**. Você pode obter a sua gratuitamente [aqui](https://aistudio.google.com/app/apikey).
 
 ### Instalação
 
-1.  **Faça o Fork** deste repositório e depois clone a sua versão.
+1.  **Clone o repositório:**
     ```bash
     git clone [https://github.com/henriquenegri/Pro-chat.git](https://github.com/henriquenegri/Pro-chat.git)
     ```
-2.  Navegue até o diretório do projeto.
+
+2.  **Navegue até o diretório:**
     ```bash
     cd Pro-chat
     ```
-3.  Instale as dependências (pode levar alguns minutinhos).
+
+3.  **Instale as dependências:**
+    * Primeiro, crie um arquivo chamado `requirements.txt` na raiz do projeto.
+    * Dentro dele, adicione a seguinte linha:
+        ```
+        google-generativeai
+        ```
+    * Agora, instale a biblioteca com o pip:
+        ```bash
+        pip install -r requirements.txt
+        ```
+
+4.  **Configure sua API Key:**
+    * Abra o arquivo de script Python (ex: `main.py`).
+    * Encontre a linha:
+        ```python
+        GOOGLE_API_KEY = "(Sua API)"
+        ```
+    * Substitua `(Sua API)` pela sua chave de API do Google que você gerou.
+
+## 🚀 Como Usar
+
+Com tudo configurado, basta executar o script no seu terminal!
+
+1.  **Execute o arquivo Python:**
     ```bash
-    npm install
-    ```
-4.  Configure suas variáveis de ambiente. Renomeie o arquivo `.env.example` para `.env` e adicione suas chaves de API e outras configurações.
-    ```env
-    # Exemplo de .env
-    API_KEY_AI="SUA_CHAVE_SECRETA_AQUI"
-    DATABASE_CONNECTION_STRING="SUA_STRING_DE_CONEXAO"
-    ```
-5.  Execute a aplicação!
-    ```bash
-    npm run dev
+    python seu_script.py 
+    # (substitua 'seu_script.py' pelo nome real do seu arquivo)
     ```
 
-E... pronto! 🚀 O NeuroChat agora está rodando em `http://localhost:3000` (ou outra porta que você configurar).
+2.  **Interaja com o Chat:**
+    O programa primeiro pedirá seu nome e sua dúvida inicial. Depois, entrará em um loop onde você pode conversar livremente.
 
-## 🤝 Quer Contribuir? (E nós queremos que você queira!)
+    **Exemplo de interação no terminal:**
 
-Este é um projeto de código aberto e de coração aberto. Toda ajuda é incrivelmente bem-vinda, seja com código, design, conteúdo, ou até mesmo com a divulgação!
+    ```text
+    Bem-vindo à Pró-chat! Somos uma plataforma de chat dedicada a ajudar a entender o mundo neural.
+    Pró-chat é uma plataforma de chat que utiliza inteligência artificial para responder perguntas e fornecer suporte personalizado para qualquer um.
+    Entre em contato conosco para mais informações ou suporte: proservechat@gmail.com
 
-1.  Dê uma olhada nas nossas `Issues` para ver onde você pode ajudar.
-2.  Siga nosso guia de contribuição em `CONTRIBUTING.md`.
-3.  Escolha uma tarefa, faça um **Fork**, crie sua **Branch** e mande ver no código!
-4.  Abra um **Pull Request** e vamos juntos construir algo incrível.
+    Olá! Qual é o seu nome?
+    > Henrique
+    Qual é a dúvida que você veio tirar?
+    > Dislexia
+
+    Entendido, Henrique. Estamos aqui para ajudá-lo(a) com sua dúvida sobre 'Dislexia'.
+
+    Aguardando pergunta: Como posso ajudar meu filho com as tarefas da escola?
+    Resposta:  Existem várias estratégias! Tente usar audiobooks para acompanhar a leitura, utilize softwares de texto para fala, e divida grandes tarefas em passos menores e mais gerenciáveis. O reforço positivo é sempre muito importante.
+
+    Aguardando pergunta: fim
+    ```
+
+3.  Para encerrar a conversa, simplesmente digite `fim` e pressione Enter.
+
+## 🤝 Quer Contribuir?
+
+Este é um projeto de código aberto e de coração aberto. Toda ajuda é bem-vinda! Sinta-se à vontade para abrir uma `Issue` para relatar bugs ou sugerir melhorias, ou fazer um `Fork` e enviar um `Pull Request`.
 
 ## 📜 Licença
 
